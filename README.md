@@ -1,6 +1,4 @@
 # NextJS APP
-> The Blaize team provides outsourced blockchain development for startups and enterprises. We specialize in dApps, smart contracts and DeFi development.
-> Live demo [_here_](https://blaize.tech). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
